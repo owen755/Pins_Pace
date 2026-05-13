@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pins-pace.vercel.app/sitemap.xml
